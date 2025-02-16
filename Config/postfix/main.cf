@@ -1,0 +1,9 @@
+#postfix configuration
+
+myhostname = email-svr.corp.project-x-dc.com
+mydomain = corp.project-x-dc.com
+myorigin = $mydomain
+inet_interfaces = all
+mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
+mynetworks = 10.0.0.0/24, 127.0.0.0/8
+relayhost =
