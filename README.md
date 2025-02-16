@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Enterprise 101** is a simulated enterprise network environment designed to test and analyze cyber attack scenarios. The project involved setting up a NAT-based network, configuring domain controllers, email servers, and security monitoring tools like **Wazuh** and **Security Onion**. Penetration testing was conducted using **Kali Linux** to identify vulnerabilities and improve network defenses.
+**Enterprise 101** Enterprise 101 is a hands-on project that simulates a real-world enterprise network environment to test, analyze, and improve cybersecurity defenses through penetration testing and security monitoring.
 
 This project demonstrates my ability to design, implement, and secure complex network infrastructures while simulating real-world cyber attacks.
 
@@ -32,12 +32,12 @@ This project demonstrates my ability to design, implement, and secure complex ne
 
 ### Operating Systems
 
-**Windows Server 2025:** For directory services and network management.
-**Windows 11 Enterprise:** Simulates a typical business user environment.
-**Ubuntu Desktop 22.04:** For software development and security monitoring.
-**Ubuntu Server 2022:** Used as the email server.
-**Kali Linux:** For penetration testing and ethical hacking.
-**Security Onion:** For network security monitoring and intrusion detection.
+- **Windows Server 2025:** For directory services and network management.
+- **Windows 11 Enterprise:** Simulates a typical business user environment.
+- **Ubuntu Desktop 22.04:** For software development and security monitoring.
+- **Ubuntu Server 2022:** Used as the email server.
+- **Kali Linux:** For penetration testing and ethical hacking.
+- **Security Onion:** For network security monitoring and intrusion detection.
 
 ### Tools Used
 - **Virtualization:** Hypervisor for virtual machine management.
