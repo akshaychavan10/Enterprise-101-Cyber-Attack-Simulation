@@ -51,16 +51,10 @@ This project demonstrates my ability to design, implement, and secure complex ne
 ## Screenshots
 
 ### Network Topology
-![Network Topology](/images/enterprise101-topology.png)
+![Network Topology](https://akshaychavan10.github.io/_astro/enterprise101-topology.CmVmVG4G_1vMDx2.webp)
 
 ### Active Directory Setup
-![Active Directory](/images/enterprise101-ad.png)
-
-### Security Onion Dashboard
-![Security Onion](/images/enterprise101-security-onion.png)
-
-### Penetration Testing with Kali Linux
-![Kali Linux](/images/enterprise101-kali.png)
+![Active Directory](https://akshaychavan10.github.io/_astro/enterprise1010ad.Czcqv2Mv_Z2nsP3q.webp)
 
 ---
 
